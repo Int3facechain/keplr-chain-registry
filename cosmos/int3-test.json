@@ -62,6 +62,18 @@
       "coinMinimalDenom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/ton-ton",
       "coinDecimals": 9,
       "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/int3-test/int3-ton.png"
+    },
+    {
+      "coinDenom": "SOL.int3",
+      "coinMinimalDenom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/solana-sol",
+      "coinDecimals": 9,
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/int3-test/int3-sol.png"
+    },
+    {
+      "coinDenom": "XRP.int3",
+      "coinMinimalDenom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/xrpl-xrp",
+      "coinDecimals": 6,
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/int3-test/int3-xrp.png"
     }
   ],
   "feeCurrencies": [
