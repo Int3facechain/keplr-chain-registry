@@ -22,27 +22,30 @@
     },
     "currencies": [
       {
-        "coinDenom": "arkeo",
+        "coinDenom": "ARKEO",
         "coinMinimalDenom": "uarkeo",
-        "coinDecimals": 6
+        "coinDecimals": 8,
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/arkeo-main-v1/chain.png"
       }
     ],
     "feeCurrencies": [
       {
-        "coinDenom": "arkeo",
+        "coinDenom": "ARKEO",
         "coinMinimalDenom": "uarkeo",
-        "coinDecimals": 6,
+        "coinDecimals": 8,
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/arkeo-main-v1/chain.png",
         "gasPriceStep": {
-          "low": 0,
+          "low": 0.01,
           "average": 0.025,
           "high": 0.03
         }
       }
     ],
     "stakeCurrency": {
-      "coinDenom": "arkeo",
+      "coinDenom": "ARKEO",
       "coinMinimalDenom": "uarkeo",
-      "coinDecimals": 6
+      "coinDecimals": 8,
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/arkeo-main-v1/chain.png"
     },
     "features": []
   }
